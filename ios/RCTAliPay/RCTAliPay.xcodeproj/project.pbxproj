@@ -221,7 +221,7 @@
 		9F303CFF1E0B7B94002A4A05 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/../../../ios/Frameworks";
+				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/../Frameworks";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
@@ -236,7 +236,7 @@
 		9F303D001E0B7B94002A4A05 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/../../../ios/Frameworks";
+				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/../Frameworks";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,

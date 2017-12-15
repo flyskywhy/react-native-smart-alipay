@@ -2,7 +2,7 @@
 #import <AlipaySDK/AlipaySDK.h>
 #import "RCTAliPay.h"
 #import "RCTUtils.h"
-#import "RCTBridge.h"
+
 #import "RCTEventDispatcher.h"
 
 @implementation RCTAliPay
